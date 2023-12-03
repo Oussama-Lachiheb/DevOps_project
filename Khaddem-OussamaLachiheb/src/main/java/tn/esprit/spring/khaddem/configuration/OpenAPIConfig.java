@@ -18,7 +18,7 @@ public class OpenAPIConfig {
     }
 
     public Contact contactAPI() {
-        Contact contact = new Contact().name("Ghassen Hammouda").email("ghassen.hammouda@esprit.tn").url("https://www.linkedin.com/in/ghassen-hammouda-97859996/");
+        Contact contact = new Contact().name("Ghassen Hammouda").email("oussama. lachiheb@esprit.tn").url("https://www.linkedin.com/in/oussama-lachiheb-0307811a1");
         return contact;
     }
 }
